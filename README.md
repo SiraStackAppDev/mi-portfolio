@@ -17,8 +17,8 @@ Aplicación móvil desarrollada con **React Native** para escuela online de medi
 - **En aprendizaje:** Node.js, TypeScript, APIs REST
 
 ## 📫 Contacto
-- **Email:** [tu-email@gmail.com]
-- **LinkedIn:** [tu-linkedin]
+- **Email:** [sfgarcia84@gmail.com]
+- **LinkedIn:** [www.linkedin.com/in/sirastackappdev ]
 - **GitHub:** https://github.com/SiraFlowStack
 
 ---
